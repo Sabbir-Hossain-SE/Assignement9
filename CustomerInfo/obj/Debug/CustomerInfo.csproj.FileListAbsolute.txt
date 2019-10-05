@@ -1,0 +1,10 @@
+C:\Users\Gili Gili\Desktop\CustomerInfo\CustomerInfo\bin\Debug\CustomerInfo.exe.config
+C:\Users\Gili Gili\Desktop\CustomerInfo\CustomerInfo\bin\Debug\CustomerInfo.exe
+C:\Users\Gili Gili\Desktop\CustomerInfo\CustomerInfo\bin\Debug\CustomerInfo.pdb
+C:\Users\Gili Gili\Desktop\CustomerInfo\CustomerInfo\obj\Debug\CustomerInfo.csprojAssemblyReference.cache
+C:\Users\Gili Gili\Desktop\CustomerInfo\CustomerInfo\obj\Debug\CustomerInfo.CustomerUi.resources
+C:\Users\Gili Gili\Desktop\CustomerInfo\CustomerInfo\obj\Debug\CustomerInfo.Properties.Resources.resources
+C:\Users\Gili Gili\Desktop\CustomerInfo\CustomerInfo\obj\Debug\CustomerInfo.csproj.GenerateResource.cache
+C:\Users\Gili Gili\Desktop\CustomerInfo\CustomerInfo\obj\Debug\CustomerInfo.csproj.CoreCompileInputs.cache
+C:\Users\Gili Gili\Desktop\CustomerInfo\CustomerInfo\obj\Debug\CustomerInfo.exe
+C:\Users\Gili Gili\Desktop\CustomerInfo\CustomerInfo\obj\Debug\CustomerInfo.pdb
